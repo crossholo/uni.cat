@@ -1,5 +1,5 @@
 # uni.cat
-automation script for questionnaires
+automation script in python for professors/courses questionnaires from https://login.unicatt.it/
 
 # Dependencies:
 Selenium, Webdriver
